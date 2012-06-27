@@ -1,38 +1,73 @@
-#Frontend Web Development Assessment#
+**Frontend Web Development Assessment**
 
-##Overview:##
+ 
 
-The following is meant to be the seed of a community discussion around a baseline diagnostic for the discipline of Front-end Web Development. 
+Overview:
 
-The test is meant for individuals seeking feedback on their self-learning and/or a stamp of baseline proficiency. There are two components of the assessment: 1) confirmation of fundamental concept understanding through standardized questions 2) assessment of practical ability to apply skill-set through development of a dynamic website project which is then reviewed using a rubric to check for accomplishment of the following core learning objectives:
+Candidates for a General Assembly Certificate in Frontend Web
+Development will apply [principles/concepts of?] HTML, CSS, and
+Javascript in creating a one-page website to showcase a topic, business,
+cause, or person of their choice. In building this webpage, they will be
+demonstrating their proficiency with the following learning objectives:
+
+ 
 
 -        Write clean, efficient, concise, logically structured, and
 easily readable code.
--        Write HTML, CSS, and Javascript to match a given specification or mockup.
+
+-        Write HTML, CSS, and Javascript to match a given mockup or
+visual presentation.
+
 -        Design a responsive application with an appropriate load-time,
-(as measured by the YSlow plugin).
--        Organize site file structure in an intuitive manner, with separate
+as measured by the YSlow plugin.
+
+-        Organize file structure in an intuitive manner, with separate
 files for HTML, CSS, and Javascript.
--         Use SEO techniques to optimize the site’s visibility in search
+
+-        Use SEO techniques to optimize the site’s visibility in search
 engines.
+
+ 
+
+Projects will be assessed on the following rubric.
+
+ 
+
+For each category, check the box that describes the students’ work in
+this project:
+
+ 
 
 **Criteria**
 
-In evaluating project submissions each criteria item is evaluated using the following levels: 
-- 3: High Proficiency 
-- 2: Baseline Proficiency
-- 1: Subpar or Lacking Proficiency 
+**3: Expert**
 
+**2: Proficient**
+
+**1: Lacking Proficiency**
 
 ***Functionality***
 
-- Matching specifications
---The application functions exactly as intended.
---The application functions mostly as intended.
---The application does not function as intended.
---Javascript Console Errors
+ 
+
+ 
+
+ 
+
+Matching specifications
+
+The application functions exactly as intended.
+
+The application functions mostly as intended.
+
+The application does not function as intended.
+
+Javascript Console Errors
+
 No errors.
+
 Less than [number] errors.
+
 More than [number] errors.
 
 Markup errors (missing/extra closing tags).
