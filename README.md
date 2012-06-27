@@ -27,22 +27,22 @@ In evaluating project submissions each criteria item is evaluated using the foll
 ***Functionality***
 
 +  Matching specifications
-++ The application functions exactly as intended.
-++ The application functions mostly as intended.
-++ The application does not function as intended.
+	3. The application functions exactly as intended.
+	2. The application functions mostly as intended.
+	1. The application does not function as intended.
 
 + Javascript Console Errors
-No errors.
-Less than [number] errors.
-More than [number] errors.
+	+ No errors.
+	+ Less than [number] errors.
+	+ More than [number] errors.
 
-Markup errors (missing/extra closing tags).
++ Markup errors (missing/extra closing tags).
 
-No errors.
++ No errors.
 
-Less than [number] errors.
++ Less than [number] errors.
 
-More than [number] errors.
++ More than [number] errors.
 
 CSS errors (non-existent properties, incorrect rule syntax).
 
