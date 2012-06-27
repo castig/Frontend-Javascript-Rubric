@@ -26,11 +26,12 @@ In evaluating project submissions each criteria item is evaluated using the foll
 
 ***Functionality***
 
->Matching specifications
->>The application functions exactly as intended.
->>The application functions mostly as intended.
->>The application does not function as intended.
->>Javascript Console Errors
++  Matching specifications
+++ The application functions exactly as intended.
+++ The application functions mostly as intended.
+++ The application does not function as intended.
+
++ Javascript Console Errors
 No errors.
 Less than [number] errors.
 More than [number] errors.
