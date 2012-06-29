@@ -10,7 +10,7 @@ The test is meant for individuals seeking feedback on their self-learning and/or
 + Consistency of HTML, CSS, and Javascript to given specification or mockup.
 + Responsiveness of site with an appropriate load-time (as measured by the YSlow plugin).
 + Organize site file structure in an intuitive manner, with separate files for HTML, CSS, and Javascript.
-+ Use SEO techniques to optimize the site’s visibility in search engines.
++Use SEO techniques to optimize the site’s visibility in search engines.
 
 
 ##Project Rubric
@@ -19,9 +19,10 @@ The test is meant for individuals seeking feedback on their self-learning and/or
 
 In evaluating project submissions each criteria item is evaluated using the following levels: 
 
-3. High Proficiency 
-2. Baseline Proficiency
 1. Subpar or Lacking Proficiency 
+2. Baseline Proficiency
+3. High Proficiency 
+
 
 ***Functionality***
 
