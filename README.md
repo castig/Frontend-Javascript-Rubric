@@ -4,165 +4,67 @@
 
 The following is meant to be the seed of a community discussion around a baseline diagnostic for the discipline of Front-end Web Development. 
 
-The test is meant for individuals seeking feedback on their self-learning and/or a stamp of baseline proficiency. There are two components of the assessment: 1) confirmation of fundamental concept understanding through standardized questions 2) assessment of practical ability to apply skill-set through development of a dynamic website project which is then reviewed using a rubric to check for accomplishment of the following core learning objectives:
+The test is meant for individuals seeking feedback on their self-learning and/or a stamp of baseline proficiency. There are two components of the assessment: 1) confirmation of fundamental concept understanding through standardized questions 2) assessment of practical ability to apply skill-set through development of a dynamic website project equivalent to a junior level portfolio piece in difficulty. This is then reviewed using a rubric to check for accomplishment of the following core learning objectives:
 
--        Write clean, efficient, concise, logically structured, and
-easily readable code.
--        Write HTML, CSS, and Javascript to match a given specification or mockup.
--        Design a responsive application with an appropriate load-time,
-(as measured by the YSlow plugin).
--        Organize site file structure in an intuitive manner, with separate
-files for HTML, CSS, and Javascript.
--         Use SEO techniques to optimize the site’s visibility in search
-engines.
+-        Clean, efficient, concise, logically structured, and easily readable code.
+-        Consistency of HTML, CSS, and Javascript to given specification or mockup.
+-        Responsiveness of site with an appropriate load-time (as measured by the YSlow plugin).
+-        Organize site file structure in an intuitive manner, with separate files for HTML, CSS, and Javascript.
+-        Use SEO techniques to optimize the site’s visibility in search engines.
+
+
+##Project Rubric
 
 **Criteria**
 
 In evaluating project submissions each criteria item is evaluated using the following levels: 
-- 3: High Proficiency 
-- 2: Baseline Proficiency
-- 1: Subpar or Lacking Proficiency 
-
+ 3: High Proficiency 
+ 2: Baseline Proficiency
+ 1: Subpar or Lacking Proficiency 
 
 ***Functionality***
 
-+  Matching specifications
-	3. The application functions exactly as intended.
-	2. The application functions mostly as intended.
-	1. The application does not function as intended.
-
-+ Javascript Console Errors
-	+ No errors.
-	+ Less than [number] errors.
-	+ More than [number] errors.
-
-+ Markup errors (missing/extra closing tags).
-
-+ No errors.
-
-+ Less than [number] errors.
-
-+ More than [number] errors.
-
-CSS errors (non-existent properties, incorrect rule syntax).
-
-No errors.
-
-Less than [number] errors.
-
-More than [number] errors.
-
-Links
-
-No broken links.
-
-Less than [number] broken links.
-
-More than [number] broken links.
-
-File references (images, css files, linked scripts).
-
-No broken references.
-
-Less than [number] broken references.
-
-More than [number] broken references.
+| High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
+|------------------|---------------------|------------------------------|
+| Matching specifications |  The application functions exactly as intended. | The application functions mostly as intended. | The application does not function as intended.|
+| Javascript Console Errors | No errors. | Less than [number] errors. | More than [number] errors. |
+| Markup errors (missing/extra closing tags). | No errors. | Less than [number] errors. |  More than [number] errors. |
+| CSS errors (non-existent properties, incorrect rule syntax). | No errors. | Less than [number] errors.|  More than [number] errors. |
+| File references (images, css files, linked scripts). | No broken references. | Less than [number] broken references.| More than [number] broken references. |
 
 ***Appearance***
 
- 
-
- 
-
- 
-
-Matching specifications
-
-The application’s front-end matches the designs exactly.
-
-The application’s front-end matches the designs closely, but not
-exactly.
-
-Less than 50% of the application’s front-end matches the design.
-
-Visual errors (unnecessary vertical/horizontal scroll distances,
-misplaced content)
-
-No visual errors.
-
-Less than [number] errors.
-
-More than [number] errors.
+| High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
+|------------------|---------------------|------------------------------|
+| Matching specifications | The application’s front-end matches the designs exactly. |The application’s front-end matches the designs closely, but not
+exactly. | Less than 50% of the application’s front-end matches the design. | 
+| Visual errors (unnecessary vertical/horizontal scroll distances,misplaced content) | No visual errors. | Less than [number] errors. | More than [number] errors. |
 
 ***Performance***
 
- 
-
- 
-
- 
-
-Responsiveness
-
-The application feels light and fast.
-
-The application is fast enough to keep a user from wanting to leave the
-page.
-
-The application is slow and clunky.
-
-Load Time
-
-Using YSlow, the application is a [grade] or better.
-
-Using YSlow, the application is a[grade] or better.
-
-Using YSlow, the application scores [grade] or below.
+| High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
+|------------------|---------------------|------------------------------|
+| Responsiveness | The application feels light and fast. |The application is fast enough to keep a user from wanting to leave the
+page. | The application is slow and clunky. |
+Load Time | Using YSlow, the site is a grade A or better. | Using YSlow, the site is a B or better.| Using YSlow, the site is a C or below |
 
 ***Structure/Organization***
 
- 
-
- 
-
- 
-
-File Structure
-
-Files are separated into folders by file type and/or purpose. Folder
-names and folder structure is intuitive.
-
-Files are separated into folders by file type and/or purpose. Folder
+| High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
+|------------------|---------------------|------------------------------|
+| File Structure | Files are separated into folders by file type and/or purpose. Folder
+names and folder structure is intuitive. | Files are separated into folders by file type and/or purpose. Folder
 names and folder structure might require some explanation to another
-developer.
-
-Files are not all separated into folders by file type and/or purpose.
-Folder names and folder structure are not intuitive enough for sharing.
-
-Separation of Concerns
-
-CSS rules and Javascript are separated from HTML.
-
-?
-
-CSS rules and Javascript are included in the HTML.
-
-SEO Techniques
-
-SEO techniques (\<meta\> tags and header tags - \<h1\>, \<h2\>, \<h3\>)
+developer. | Files are not all separated into folders by file type and/or purpose.
+Folder names and folder structure are not intuitive enough for sharing. |
+| Separation of Concerns | CSS rules and Javascript are separated from HTML. | ? | CSS rules and Javascript are included in the HTML. | 
+| SEO Techniques | SEO techniques (\<meta\> tags and header tags - \<h1\>, \<h2\>, \<h3\>)
 are used to effectively provide useful information to search engines
-throughout the code.
-
-Some SEO techniques (\<meta\> tags and header tags - \<h1\>, \<h2\>,
+throughout the code. | Some SEO techniques (\<meta\> tags and header tags - \<h1\>, \<h2\>,
 \<h3\>) are used to effectively provide useful information to search
-engines.
+engines. | SEO techniques (\<meta\> tags and header tags - \<h1\>, \<h2\>, \<h3\>)
+are not effectively to provide useful information to search engines. |
 
-SEO techniques (\<meta\> tags and header tags - \<h1\>, \<h2\>, \<h3\>)
-are not effectively to provide useful information to search engines.
-
-\
-
-\
 
 **Code Quality**
 
