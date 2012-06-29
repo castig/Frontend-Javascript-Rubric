@@ -24,7 +24,7 @@ In evaluating project submissions each criteria item is evaluated using the foll
 
 ***Functionality***
 
-| High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
+| Metric | High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
 |------------------|---------------------|------------------------------|
 | Matching specifications |  The application functions exactly as intended. | The application functions mostly as intended. | The application does not function as intended.|
 | Javascript Console Errors | No errors. | Less than [number] errors. | More than [number] errors. |
@@ -34,7 +34,7 @@ In evaluating project submissions each criteria item is evaluated using the foll
 
 ***Appearance***
 
-| High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
+| Metric | High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
 |------------------|---------------------|------------------------------|
 | Matching specifications | The application’s front-end matches the designs exactly. |The application’s front-end matches the designs closely, but not
 exactly. | Less than 50% of the application’s front-end matches the design. | 
@@ -42,7 +42,7 @@ exactly. | Less than 50% of the application’s front-end matches the design. |
 
 ***Performance***
 
-| High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
+| Metric | High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
 |------------------|---------------------|------------------------------|
 | Responsiveness | The application feels light and fast. |The application is fast enough to keep a user from wanting to leave the
 page. | The application is slow and clunky. |
@@ -50,7 +50,7 @@ Load Time | Using YSlow, the site is a grade A or better. | Using YSlow, the sit
 
 ***Structure/Organization***
 
-| High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
+| Metric | High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
 |------------------|---------------------|------------------------------|
 | File Structure | Files are separated into folders by file type and/or purpose. Folder
 names and folder structure is intuitive. | Files are separated into folders by file type and/or purpose. Folder
