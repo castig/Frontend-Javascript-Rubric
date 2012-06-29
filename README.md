@@ -43,26 +43,18 @@ In evaluating project submissions each criteria item is evaluated using the foll
 
 | Metric | High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
 |--------|------------------|---------------------|------------------------------|
-| Responsiveness | The application feels light and fast. |The application is fast enough to keep a user from wanting to leave the
-page. | The application is slow and clunky. |
-Load Time | Using YSlow, the site is a grade A or better. | Using YSlow, the site is a B or better.| Using YSlow, the site is a C or below |
+| Responsiveness | The application feels light and fast. |The application is fast enough to keep a user from wanting to leave the page. | The application is slow and clunky. |
+| Load Time | Using YSlow, the site is a grade A or better. | Using YSlow, the site is a B or better.| Using YSlow, the site is a C or below |
 
 ***Structure/Organization***
 
 | Metric | High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
 |--------|------------------|---------------------|------------------------------|
 | File Structure | Files are separated into folders by file type and/or purpose. Folder
-names and folder structure is intuitive. | Files are separated into folders by file type and/or purpose. Folder
-names and folder structure might require some explanation to another
-developer. | Files are not all separated into folders by file type and/or purpose.
-Folder names and folder structure are not intuitive enough for sharing. |
+names and folder structure is intuitive. | Files are separated into folders by file type and/or purpose. Folder names and folder structure might require some explanation to another
+developer. | Files are not all separated into folders by file type and/or purpose. Folder names and folder structure are not intuitive enough for sharing. |
 | Separation of Concerns | CSS rules and Javascript are separated from HTML. | ? | CSS rules and Javascript are included in the HTML. | 
-| SEO Techniques | SEO techniques (\<meta\> tags and header tags - \<h1\>, \<h2\>, \<h3\>)
-are used to effectively provide useful information to search engines
-throughout the code. | Some SEO techniques (\<meta\> tags and header tags - \<h1\>, \<h2\>,
-\<h3\>) are used to effectively provide useful information to search
-engines. | SEO techniques (\<meta\> tags and header tags - \<h1\>, \<h2\>, \<h3\>)
-are not effectively to provide useful information to search engines. |
+| SEO Techniques | SEO techniques (\<meta\> tags and header tags - \<h1\>, \<h2\>, \<h3\>) are used to effectively provide useful information to search engines throughout the code. | Some SEO techniques (\<meta\> tags and header tags - \<h1\>, \<h2\>,\<h3\>) are used to effectively provide useful information to search engines. | SEO techniques (\<meta\> tags and header tags - \<h1\>, \<h2\>, \<h3\>) are not effectively to provide useful information to search engines. |
 
 
 **Code Quality**
