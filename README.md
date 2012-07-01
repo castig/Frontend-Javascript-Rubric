@@ -76,11 +76,8 @@ In evaluating project submissions each criteria item is evaluated using the foll
 | Metric | High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
 |--------|------------------|---------------------|------------------------------|
 |Structure|	The code is separated into logical sections.|	The code is broken down into logical sections, with a few minor exceptions.|	There may be some attempt at breaking the code down into logical sections, but overall, it is not logically structured.|
-
 |Use of CSS Properties|	The individual demonstrates a command of a wide variety of properties and techniques. He/she successfully accomplishes the desired visual outcomes in standard, accepted ways.	|The individual demonstrates ability to implement a variety of properties and techniques. He/she accomplishes the desired visual outcomes, primarily through standard, accepted ways.|	The individual implements some properties and techniques. He/she may accomplish the desired visual outcomes, but misuses certain properties.|
-
 |Readability|	Code is very easy to read. The individual indents consistently, and leaves frequent comments.|	Code is mostly easy to read. The individual indents and leaves comments.|	Because the individual does not indent consistently or leave comments, the code is challenging to read. |
-
 |Concision |	The individual’s code is very concise. He/she makes clever use of selectors to keep the number of duplicate rules low.|	The individual’s code is concise, but there may be a few unnecessary duplicate rules.|	The code is not concise. There are several instances where selectors could have been used, but were not.|
 
 **Code Quality Javascript**
