@@ -38,6 +38,7 @@ In evaluating project submissions each criteria item is evaluated using the foll
 | Markup errors (missing/extra closing tags). | No errors. | Less than [number] errors. |  More than [number] errors. |
 | CSS errors (non-existent properties, incorrect rule syntax). | No errors. | Less than [number] errors.|  More than [number] errors. |
 | File references (images, css files, linked scripts). | No broken references. | Less than [number] broken references.| More than [number] broken references. |
+|--------|------------------|---------------------|------------------------------|
 
 ***Appearance***
 
