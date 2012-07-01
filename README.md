@@ -34,11 +34,11 @@ In evaluating project submissions each criteria item is evaluated using the foll
 | Metric | High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
 |--------|------------------|---------------------|------------------------------|
 | Matching specifications |  The application functions exactly as intended. | The application functions mostly as intended. | The application does not function as intended.|
-| Javascript Console Errors | No errors. | Less than [number] errors. | More than [number] errors. |
-| Markup errors (missing/extra closing tags). | No errors. | Less than [number] errors. |  More than [number] errors. |
+| Javascript Console Errors | No errors. | Less than 3 noted errors per page. | More than 3 noted errors per page. |
+| Markup errors (missing/extra closing tags). | No errors. | Less than 3 noted errors per page. |  More than 3 noted errors. |
 | CSS errors (non-existent properties, incorrect rule syntax). | No errors. | Less than [number] errors.|  More than [number] errors. |
 | File references (images, css files, linked scripts). | No broken references. | Less than [number] broken references.| More than [number] broken references. |
-|--------|------------------|---------------------|------------------------------|
+
 
 ***Appearance***
 
