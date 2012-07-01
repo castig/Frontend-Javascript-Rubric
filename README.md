@@ -45,7 +45,7 @@ In evaluating project submissions each criteria item is evaluated using the foll
 | Metric | High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
 |--------|------------------|---------------------|------------------------------|
 | Matching specifications | The application’s front-end matches the designs exactly. |The application’s front-end matches the designs closely, but not exactly. | Less than 50% of the application’s front-end matches the design. | 
-| Visual errors (unnecessary vertical/horizontal scroll distances,misplaced content) | No visual errors. | Less than [number] errors. | More than [number] errors. |
+| Visual errors (unnecessary vertical/horizontal scroll distances,misplaced content) | No visual errors. | Less than 3 errors. | More than [number] errors. |
 
 ***Performance***
 
