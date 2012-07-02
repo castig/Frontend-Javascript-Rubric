@@ -6,16 +6,14 @@ The following is meant to be the seed of a community discussion around a baselin
 
 The test is meant for individuals seeking feedback on their self-learning and/or a stamp of baseline proficiency. There are two components of the assessment: 
 
-1. Confirmation of fundamental concept understanding through standardized questions 
+1. Confirmation of fundamental concept understanding through standardized questions. 
 2. Assessment of practical ability to apply skill-set through development of a dynamic website project equivalent to a junior level portfolio piece in difficulty.
 
-These are both then reviewed using a rubric to check for accomplishment of the following core learning objectives:
+These are both then reviewed by practicing developers using a standard rubric to evaluate projects and provide personalized feedback. 
 
-+ Clean, efficient, concise, logically structured, and easily readable code.
-+ Consistency of HTML, CSS, and Javascript to given specification or mockup.
-+ Responsiveness of site with an appropriate load-time (as measured by the YSlow plugin).
-+ Organization of site file structure in an intuitive manner, with appropriate separation of HTML, CSS, and Javascript.
-+ Use of SEO techniques to optimize the site’s visibility in search engines.
+
+
+
 
 
 ##Project Rubric
