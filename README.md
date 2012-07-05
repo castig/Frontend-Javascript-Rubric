@@ -14,7 +14,7 @@ These are both then reviewed by practicing developers using a standard rubric to
 Rubrics for all of these are based upon 
 
 ##[Topics and Concepts](topicsconcepts)
-## [Project Review Rubric](blob/master/projectRubric.md)
+## [Project Review Rubric](Frontend-Javascript-Rubric/blob/master/projectRubric.md)
 
 
 ##Project Rubric
