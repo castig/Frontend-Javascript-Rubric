@@ -1,5 +1,7 @@
-#Frontend Web Development
-##Topics and Concepts:  
+#[Frontend Web Development](readme.md)
+##Core Topics and Concepts: 
+
+The following is meant to be a structured listing of the core concepts that should be understood by an individual entering the field of web development. 
 
 ###HTML
 

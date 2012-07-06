@@ -1,4 +1,4 @@
-#[Frontend Web Development Assessment]#(readme)
+#[Frontend Web Development Assessment](readme.md)
 
 
 
@@ -70,10 +70,9 @@ In evaluating project submissions each criteria item is evaluated using the foll
 | Metric | High Proficiency |Baseline Proficiency |Subpar or Lacking Proficiency |
 |--------|------------------|---------------------|------------------------------|
 |Organization|	Procedural code and event handlers are consistently separated from functions.|	Procedural code and event handlers are separated from functions, with a few minor exceptions.|	Procedural code and event handlers are not separated from functions.|
-|Program Logic |	The student has very effectively used loops, functions, and conditionals, to [insert]. |	In a few instances, the student did not use loops, functions, and conditionals, where they might more easily accomplished certain goals. |	There are several cases in which students could have more easily accomplished certain things, using loops, functions, and conditionals. |
+|Program Logic |	The student has very effectively used loops, functions, and conditionals, to [insert]. |	In a few instances, the student did not use loops, functions, and conditionals, where they might more easily accomplished certain goals. |	There are several cases in which students could have more easily accomplished certain things, using loops, functions, and conditionals. | 
+|Readability| The code is well-indented and consistently spaced.  Throughout, complex pieces of logic are appropriately commented. | The code is indented and consistently spaced. In most cases, complex pieces of logic are appropriately commented.	|While there may be some attempt at organizing the code, it is not indented or spaced to support readability. Further, complex pieces of logic are missing commentary.|
+|Efficiency	|The code is consistently written in an efficient manner, with an eye for accomplishing as much as possible with concise code. | The code is efficiently written.|	Student regularly performs unnecessary operations. | 
+|Maintainability|	Throughout, the code is DRY (free from repetition of blocks of identical or highly similar code). All variables have intuitive names. |	The code is DRY (free from repetition of blocks of identical or highly similar code). With a few minor exceptions, variables have intuitive names. |	The code includes repetition of blocks of identical or highly similar code. Most variables do not have intuitive names.
 
-|Readability	| The code is well-indented and consistently spaced.  Throughout, complex pieces of logic are appropriately commented. |	The code is indented and consistently spaced. In most cases, complex pieces of logic are appropriately commented.	|While there may be some attempt at organizing the code, it is not indented or spaced to support readability. Further, complex pieces of logic are missing commentary.|
-
-|Efficiency	|The code is consistently written in an efficient manner, with an eye for accomplishing as much as possible with concise code.	The code is efficiently written.	Student regularly performs unnecessary operations.
-Maintainability	Throughout, the code is DRY (free from repetition of blocks of identical or highly similar code). All variables have intuitive names. 	The code is DRY (free from repetition of blocks of identical or highly similar code). With a few minor exceptions, variables have intuitive names. 	The code includes repetition of blocks of identical or highly similar code. Most variables do not have intuitive names.
 
